@@ -25,13 +25,13 @@
     
     <form method="get" action="">
       <fieldset class="form-group">
-        <label for="first-name">First Name</label>
-        <input class="form-control" name="first-name" placeholder="First Name" required>
+        <label for="firstnamename">First Name</label>
+        <input class="form-control" name="firstnamename" placeholder="First Name" required>
       </fieldset>
 
       <fieldset class="form-group">
-        <label for="last-name">Last Name</label>
-        <input class="form-control" name="last-name" placeholder="Last Name">
+        <label for="lastnamename">Last Name</label>
+        <input class="form-control" name="lastnamename" placeholder="Last Name">
       </fieldset>
 
       <fieldset class="form-group">
